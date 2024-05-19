@@ -111,6 +111,7 @@ const CoinInfo = ({ coin }) => {
               style={{
                 display: "flex",
                 marginTop: 20,
+                fontSize:"12px",
                 justifyContent: "space-around",
                 width: "100%",
               }}

@@ -203,7 +203,7 @@ export default function CoinsTable() {
         <Pagination
           count={(handleSearch()?.length / 10).toFixed(0)}
           style={{
-            padding: 20,
+            padding: 10,
             width: "100%",
             display: "flex",
             justifyContent: "center",
